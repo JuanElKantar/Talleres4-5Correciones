@@ -15,5 +15,8 @@ En el actual repositorio se realizaron las siguientes correcciones:
 ![image](https://github.com/JuanElKantar/Talleres4-5Correciones/assets/128154436/9a3a0e67-0a26-42a5-9ae2-0970c916396a)
 
 
+![image](https://github.com/JuanElKantar/Talleres4-5Correciones/assets/128154436/793be98f-2580-4d2d-b84d-076bbf46a125)
+
+
 
 
